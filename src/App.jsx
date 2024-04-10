@@ -1,7 +1,7 @@
 function App () {
   return (
     <>
-      <div className='head-text'>Three js</div>
+      <div className='head-text'>Three js ai shirt shop</div>
     </>
   )
 }
